@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBa9a86DaeFC9cd1Ed219a36eC3997F1386C06F7c",
+  "SCAN_LINK": "https://bscscan.com/token/0xba9a86daefc9cd1ed219a36ec3997f1386c06f7c",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain Mainnet",
+    "SYMBOL": "Binance Mainnet",
+    "ID": 56
+  },
+  "NFT_NAME": "Apollo Inu NFT",
+  "SYMBOL": "APIN",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Telegram",
+  "MARKETPLACE_LINK": "https://t.me/apolloinucryptochat",
+  "SHOW_BACKGROUND": true
+}
